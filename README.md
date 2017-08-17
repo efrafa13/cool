@@ -1,3 +1,3 @@
 # cool
-cool 2
-crisocola es un mineraloide
+La crisocola es un mineraloide
+
